@@ -1,0 +1,21 @@
+input[type="email"]{
+    margin-left: 18px;
+}
+input[type="text"]{
+    margin-left: 15px;
+}
+input[type="number"]{
+    margin-left: 8px;
+}
+.message {
+    border-top: 2px solid lavender;
+    border-bottom: 2px solid lavender;
+    border-left: 0.5px solid lavender;
+    border-right: 0.5px solid lavender;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.img-fluid {
+    width: 5rem;
+    height: 5rem;
+}
